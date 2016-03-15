@@ -52,7 +52,6 @@
       - { name: dash }
       - { name: skitch }
       - { name: kobito }
-      - { name: intellij-idea }
       - { name: vagrant }
       - { name: virtualbox }
       - { name: android-studio }
