@@ -57,7 +57,10 @@
       - { name: android-studio }
       - { name: fabric }
       - { name: kindle }
-      
+      - { name: dropbox }
+      - { name: clipmenu }
+      - { name: appcleaner }
+
 
   tasks:
     - name: homebrew の tap リポジトリを追加
