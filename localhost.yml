@@ -9,6 +9,7 @@
       - caskroom/cask
       - railwaycat/emacsmacport
       - sanemat/font
+      - Caskroom/versions
     homebrew_packages:
       - { name: readline }
       - { name: openssl }
@@ -38,6 +39,7 @@
       - { name: tmux }
     homebrew_cask_packages:
       - { name: emacs-mac, install_options: with-cocoa, with-gnutls }
+      - { name: macvim-kaoriya }
       - { name: iterm2 }
       - { name: firefox }
       - { name: google-chrome }
