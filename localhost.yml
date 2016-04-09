@@ -28,8 +28,10 @@
       - { name: ctags }
       - { name: tree }
       - { name: nkf }
+      - { name: jq }
       - { name: go }
       - { name: peco }
+      - { name: hub }
       - { name: ghq }
       - { name: tig }
       - { name: rbenv }
@@ -37,6 +39,17 @@
       - { name: mercurial }
       - { name: packer }
       - { name: tmux }
+      - { name: graphviz }
+      - { name: gibo }
+      - { name: youtube-dl }
+      - { name: tree }
+      - { name: swiftlint }
+      - { name: jenkins }
+      - { name: node }
+      - { name: carthage }
+      - { name: gradle }
+      - { name: texinfo }
+      - { name: sourcekitten }
     homebrew_cask_packages:
       - { name: emacs-mac, install_options: with-cocoa, with-gnutls }
       - { name: macvim-kaoriya }
@@ -56,6 +69,8 @@
       - { name: kobito }
       - { name: vagrant }
       - { name: virtualbox }
+      - { name: atom }
+      - { name: intellij-idea }
       - { name: android-studio }
       - { name: fabric }
       - { name: kindle }
