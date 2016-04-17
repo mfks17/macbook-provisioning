@@ -50,6 +50,7 @@
       - { name: gradle }
       - { name: texinfo }
       - { name: sourcekitten }
+      - { name: z }
     homebrew_cask_packages:
       - { name: emacs-mac, install_options: with-cocoa, with-gnutls }
       - { name: macvim-kaoriya }
