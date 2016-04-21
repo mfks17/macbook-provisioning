@@ -36,6 +36,8 @@
       - { name: tig }
       - { name: rbenv }
       - { name: ruby-build }
+      - { name: plenv }
+      - { name: perl-build }
       - { name: mercurial }
       - { name: packer }
       - { name: tmux }
