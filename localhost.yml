@@ -6,6 +6,7 @@
     homebrew_taps:
       - homebrew/binary
       - homebrew/dupes
+      - homebrew/science
       - caskroom/cask
       - railwaycat/emacsmacport
       - sanemat/font
@@ -53,6 +54,7 @@
       - { name: texinfo }
       - { name: sourcekitten }
       - { name: cocoapods }
+      - { name: r }
       - { name: z }
     homebrew_cask_packages:
       - { name: emacs-mac, install_options: with-cocoa, with-gnutls }
@@ -81,6 +83,7 @@
       - { name: dropbox }
       - { name: clipmenu }
       - { name: appcleaner }
+      - { name: xquartz }
 
 
   tasks:
