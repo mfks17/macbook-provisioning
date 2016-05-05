@@ -25,6 +25,7 @@
       - { name: cmake }
       - { name: autoconf }
       - { name: automake }
+      - { name: libxml2 }
       - { name: pkg-config }
       - { name: ctags }
       - { name: tree }
